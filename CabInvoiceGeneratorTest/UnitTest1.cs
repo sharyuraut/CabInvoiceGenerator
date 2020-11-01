@@ -58,10 +58,24 @@ namespace CabInvoiceGeneratorTest
 
             InvoiceSummary summary = ig.CalculateFare(rides);
             InvoiceSummary expectedSummary = new InvoiceSummary(2, 30.0);
-            double acerageFareExpected = 15.0;
+            double averageFareExpected = 15.0;
 
             Assert.AreEqual(expectedSummary, summary);
-            Assert.AreEqual(acerageFareExpected, averageFare);
+            Assert.AreEqual(averageFareExpected, averageFare);
+        }
+        /// <summary>
+        /// Test case4 to return invoice given userid
+        /// </summary>
+        [Test]
+        public void GetInvoiceService__GivenUserId_ShouldReturnListOfRides()
+        {
+            ig = new InvoiceGenerator(RideType.NORMAL);
+            string uName = "user1";
+
+            InvoiceSummary user = ig.GetInvoiceSummary(uName);
+            InvoiceSummary expectedUser = new GetInvoiceSummary("user1");
+
+            Assert.AreEqual(uName, expectedUser);
         }
     }
 }
