@@ -66,16 +66,33 @@ namespace CabInvoiceGeneratorTest
         /// <summary>
         /// Test case4 to return invoice given userid
         /// </summary>
+        //[Test]
+        //public void GetInvoiceService__GivenUserId_ShouldReturnListOfRides()
+        //{
+        //    ig = new InvoiceGenerator(RideType.NORMAL);
+        //    string uName = "user1";
+
+        //    InvoiceSummary user = ig.GetInvoiceSummary(uName);
+        //    InvoiceSummary expectedUser = new GetInvoiceSummary("user1");
+
+        //    Assert.AreEqual(uName, expectedUser);
+        //}
         [Test]
-        public void GetInvoiceService__GivenUserId_ShouldReturnListOfRides()
+        public void GivenDistanceAndTIme_ShouldReturnTotalFare_ForPremiumRide()
         {
-            ig = new InvoiceGenerator(RideType.NORMAL);
-            string uName = "user1";
+            ///<summary>
+            ///Creaating instance of invoice generator for premium ride
+            ///</summary>
+            ig = new InvoiceGenerator(RideType.PREMIUM);
+            double distance = 2.0;
+            int time = 5;
 
-            InvoiceSummary user = ig.GetInvoiceSummary(uName);
-            InvoiceSummary expectedUser = new GetInvoiceSummary("user1");
-
-            Assert.AreEqual(uName, expectedUser);
+            ///<summary>
+            ///Calculatinng fare
+            ///</summary>
+            double fare = ig.CalculateFare(distance, time);
+            double expected = 40;
+            Assert.AreEqual(expected, fare);
         }
     }
 }
