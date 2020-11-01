@@ -1,7 +1,4 @@
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.exe
-C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.deps.json
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.runtimeconfig.json
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.runtimeconfig.dev.json
@@ -16,8 +13,6 @@ C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\testhost.dll
-C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -90,8 +85,8 @@ C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.csprojAssemblyReference.cache
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.AssemblyInfoInputs.cache
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.AssemblyInfo.cs
-C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.csproj.CoreCompileInputs.cache
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.csproj.CopyComplete
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.dll
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.pdb
 C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\obj\Debug\netcoreapp3.1\CabInvoiceGeneratorTest.genruntimeconfig.cache
+C:\Users\HP LAPTOP\source\repos\CabInvoiceGenerator\CabInvoiceGeneratorTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
