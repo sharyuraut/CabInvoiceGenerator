@@ -33,7 +33,6 @@ namespace CabInvoiceGenerator
                     List<Ride> list = new List<Ride>();
                     list.AddRange(rides);
                     this.userRides.Add(userId, list);
-
                 }
             }
             catch (CabInvoiceException)
